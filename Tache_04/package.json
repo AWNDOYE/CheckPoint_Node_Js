@@ -1,0 +1,15 @@
+{
+  "name": "tache_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genererPassword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.1"
+  }
+}
